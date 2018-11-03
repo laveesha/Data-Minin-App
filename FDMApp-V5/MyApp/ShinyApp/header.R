@@ -1,0 +1,4 @@
+header <- dashboardHeader(
+  title = "ClusterBot"
+)
+
